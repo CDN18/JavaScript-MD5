@@ -2,7 +2,7 @@
 
 ## Contents
 
-- [Demo](https://blueimp.github.io/JavaScript-MD5/)
+- [Demo](https://cdn18.github.io/JavaScript-MD5/)
 - [Description](#description)
 - [Usage](#usage)
   - [Client-side](#client-side)
